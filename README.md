@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Derek </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - :school: I am a `Student` at [FISC]() at [UTP](https://utp.ac.pa/).
-- :student: I’m currently learning `web development` and `Software Engineering`.
+- :student: I’m currently learning `web development`, `Software Engineering` and `Astro`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](drek003.github.io/Portafolio-v2/).
 - :boom: You can visit [MY WEBSITE](drek003.github.io/Portafolio-v2/).
 <br>
