@@ -35,3 +35,6 @@
   </a>
 </p>
 
+## Github Stats
+![Drek003's Stats](https://github-readme-stats.vercel.app/api?username=Drek003&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
